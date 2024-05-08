@@ -1,0 +1,14 @@
+<!-- depart-delete.component.html -->
+<div class="container">
+  <h2>Delete Department</h2>
+  <div class="form-group">
+    <label for="deptId">Department ID:</label>
+    <input type="number" class="form-control" id="deptId" [(ngModel)]="deptId" name="deptId" placeholder="Enter Department ID">
+  </div>
+  <div>
+    <button class="btn btn-danger" (click)="deleteDepartment()">Delete Department</button>
+    <button class="btn btn-secondary" (click)="clearMessages()">Clear Messages</button>
+  </div>
+  <div *ngIf="errorMessage" class="alert alert-danger mt-3">{{ errorMessage }}</div>
+  <div *ngIf="successMessage" class="alert alert-success mt-3">{{ successMessage }}</div>
+</div>

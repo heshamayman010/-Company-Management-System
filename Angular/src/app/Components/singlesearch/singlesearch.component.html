@@ -1,0 +1,47 @@
+
+<div>
+
+    <h2>You can only search with one thing if multiple the search will be with the first  </h2>
+  <input type="text" [(ngModel)]="fullname" placeholder="Search by Name">
+
+  <input type="text" [(ngModel)]="id" placeholder="Search by ID">
+
+  
+    <input type="text" [(ngModel)]="mobile" placeholder="Search by mobile">
+
+    <input type="text" [(ngModel)]="email" placeholder="Search by email">
+
+    <input type="text" [(ngModel)]="address" placeholder="Search by Address">
+  <br>
+
+  <button (click)="onInputChange()">Search</button>
+</div>
+
+<div *ngIf="thefoundentry" class="container">
+  <table class="table">
+    <thead>
+      <tr style="background-color: bisque;color: black;">
+        <th scope="col">Id</th>
+        <th scope="col">fullName</th>
+        <th scope="col">mobile</th>
+        <th scope="col">email</th>
+        <th scope="col">birth</th>
+                <th scope="col">Address </th>
+
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{thefoundentry.id}}</td>
+        <td>{{thefoundentry.fullName}}</td>
+        <td>{{thefoundentry.mobile}}</td>
+        <td>{{thefoundentry.email}}</td>
+        <td>{{thefoundentry.birth }}</td>
+        <td>{{thefoundentry.address}}</td>
+
+
+
+      </tr>
+    </tbody>
+  </table>
+</div>

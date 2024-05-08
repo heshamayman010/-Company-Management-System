@@ -1,0 +1,101 @@
+<!-- 
+      { path: 'entry', component: EntryComponent },
+      { path: 'singlesearch', component: SinglesearchComponent },
+      { path: 'groubsearch', component: GroupsearchComponent },
+      { path: 'edit', component: EditComponent },
+      { path: 'add', component: AddingEntryComponent },
+      { path: 'delete', component: DeleteComponent },
+      { path: 'deptdelete', component: DepDeleteComponent },
+      { path: 'deljob', component: JobdelComponent },
+      { path: 'adddept', component: DepartAddComponent },
+      { path: 'addjob', component: JobaddComponent },
+      { path: 'editDept', component: DepartEditComponent },
+      { path: 'editjob', component: EditjobComponent },
+      { path: 'home', component: HomeComponent },
+      { path: 'download', component: ExcelComponent }, -->
+
+<nav
+    class="navbar navbar-expand-sm navbar-dark bg-primary" style="width: 120%;"
+>
+    <a class="navbar-brand" routerLink="/main/home" routerLinkActive="active">Home</a>
+    <button
+        class="navbar-toggler d-lg-none"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#collapsibleNavId"
+        aria-controls="collapsibleNavId"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+    ></button>
+    <div class="collapse navbar-collapse" id="collapsibleNavId">
+        <ul class="navbar-nav me-auto mt-2 mt-lg-0">
+            <li class="nav-item">
+                <a class="nav-link active" routerLink="/main/entry" aria-current="page" routerLinkActive="active"
+                    >Entries <span class="visually-hidden">(current)</span></a
+                ></li><li>
+                                <a class="nav-link active" routerLink="/main/download" aria-current="page" routerLinkActive="active"
+                    >Download All  <span class="visually-hidden">(current)</span></a
+                
+                    >
+
+            </li>
+                        <li class="nav-item">
+                <a class="nav-link active" routerLink="/main/edit" aria-current="page" routerLinkActive="active"
+                    >Edit <span class="visually-hidden">(current)</span></a
+                >
+            </li>
+
+                        <li class="nav-item">
+                <a class="nav-link" routerLinkActive="active" routerLink="/main/singlesearch">make a single search</a>
+            </li>
+            
+                                    <li class="nav-item">
+                <a class="nav-link" routerLinkActive="active" routerLink="/main/groubsearch"> Groubsearch</a>
+            </li>
+ <li class="nav-item">
+                <a class="nav-link" routerLinkActive="active" routerLink="/main/add"> AddNewEntry</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" routerLinkActive="active" routerLink="/main/delete"> Delete</a>
+            </li>
+                        <li class="nav-item">
+                <a class="nav-link" routerLinkActive="active" routerLink="/main/departmentandjobsearch"> SearchBy DeptAndJob </a>
+            </li>
+
+            
+            
+                <li class="nav-item">
+                <a class="nav-link" routerLinkActive="active" routerLink="/main/addjob"> Add Job </a>
+            </li>
+
+
+                        <li class="nav-item">
+                <a class="nav-link" routerLinkActive="active" routerLink="/main/editjob"> EditJob </a>
+            </li>
+
+
+                        <li class="nav-item">
+                <a class="nav-link" routerLinkActive="active" routerLink="/main/deljob"> DeleteJob </a>
+            </li>
+
+
+
+
+                        <li class="nav-item">
+                <a class="nav-link" routerLinkActive="active" routerLink="/main/deptdelete"> DeleteDepartment </a>
+            </li>
+
+                        <li class="nav-item">
+                <a class="nav-link" routerLinkActive="active" routerLink="/main/adddept"> Add Department </a>
+            </li>
+                        <li class="nav-item">
+                <a class="nav-link" routerLinkActive="active" routerLink="/main/editDept"> Edit Department </a>
+            </li>
+
+        </ul>
+       
+    </div>
+</nav>
+<router-outlet></router-outlet>
+
+

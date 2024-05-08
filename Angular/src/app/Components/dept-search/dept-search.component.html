@@ -1,0 +1,57 @@
+
+<div>
+
+    <h2>You can only search with one thing Id if multiple the search will be with the first  </h2>
+  <input type="text" [(ngModel)]="deptid" placeholder="Search by Department Id">
+
+  <br>
+  <br>
+
+  <input type="text" [(ngModel)]="jobjd" placeholder="Search by Job ID">
+
+  
+  <br>
+
+  <button (click)="onInputChange()">Search</button>
+</div>
+
+<!-- // here if the deaprtment is found  -->
+<div *ngIf="foundDepartment" class="container">
+  <table class="table">
+    <thead>
+      <tr style="background-color: bisque;color: black;">
+        <th scope="col">Id</th>
+        <th scope="col">Name</th>
+        <th scope="col">Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{foundDepartment.id}}</td>
+        <td>{{foundDepartment.name}}</td>
+        <td>{{foundDepartment.description}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- and here if the search will be with the job id   -->
+
+<div *ngIf="foundJob" class="container">
+  <table class="table">
+    <thead>
+      <tr style="background-color: bisque;color: black;">
+        <th scope="col">Id</th>
+        <th scope="col">Title</th>
+        <th scope="col">Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{foundJob.id}}</td>
+        <td>{{foundJob.title}}</td>
+        <td>{{foundJob.description}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,119 @@
+<!-- <h2 mat-dialog-title>Edit Entry</h2>
+<div mat-dialog-content>
+
+<label for="fullName">Full Name:</label>
+  <input type="text" id="fullName" name="fullName" [(ngModel)]="editedEntry.fullName" placeholder="Enter full name">
+<br>
+
+  <label for="address">Address:</label>
+    <input type="text" id="address" name="address" [(ngModel)]="editedEntry.address" placeholder="Enter full address">
+
+<br>
+
+  <label for="email">Email:   </label>
+  <input type="email" id="email" name="email" [(ngModel)]="editedEntry.email" placeholder="Enter email">
+<br>
+
+
+  <label for="jobTitle">Job Title:</label>
+  <select id="jobTitle" name="jobTitle" [(ngModel)]="editedEntry.jobTitle">
+    <option value="Software Developer">Software Developer</option>
+    <option value="Data Analyst">Data Analyst</option>
+    <option value="Project Manager">Project Manager</option>
+    <option value=" Engineering">Engineer</option>
+
+
+  </select>
+<br>
+  <label for="department">Department:</label>
+  <select id="department" name="department" [(ngModel)]="editedEntry.departmentName">
+    <option value="Engineering">Engineering</option>
+    <option value="Marketing">Marketing</option>
+    <option value="Finance">Finance</option>
+  </select>
+<br>
+
+  <label for="mobile">Mobile Number:</label>
+  <input type="text" id="mobile" name="mobile" [(ngModel)]="editedEntry.mobile" placeholder="Enter mobile number">
+<br>
+
+  
+<label for="dob">Date of Birth:</label>
+<input matInput [matDatepicker]="dobPicker" placeholder="Enter date of birth" [(ngModel)]="editedEntry.birth" name="dob">
+<mat-datepicker-toggle matSuffix [for]="dobPicker"></mat-datepicker-toggle>
+<mat-datepicker #dobPicker></mat-datepicker>
+  <br>
+
+  <label for="age">Age:</label>
+  <input type="number" id="age" name="age" [(ngModel)]="editedEntry.age" placeholder="Enter age">
+<br>
+
+
+
+
+
+
+
+
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onCancel()">Cancel</button>
+  <button mat-button color="primary" (click)="onEdit()">Edit</button>
+</div> -->
+<h1>Edit Entry</h1>
+<form (ngSubmit)="onEdit()">
+  <div>
+    <label for="fullName">Full Name:</label>
+    <input type="text" [(ngModel)]="editedEntry.fullName" name="fullName" id="fullName" required>
+  
+<br>
+
+  <label for="address">Address:</label>
+    <input type="text" id="address" name="address" [(ngModel)]="editedEntry.address" required>
+
+<br>
+
+  <label for="email">Email:   </label>
+  <input type="email" id="email" name="email" [(ngModel)]="editedEntry.email" required>
+<br>
+
+
+  <label for="jobTitle">Job Title:</label>
+  <select id="jobTitle" name="jobTitle" [(ngModel)]="editedEntry.jobTitle" >
+    <option value="Software Developer">Software Developer</option>
+    <option value="Data Analyst">Data Analyst</option>
+    <option value="Project Manager">Project Manager</option>
+    <option value=" Engineering">Engineer</option>
+
+
+  </select>
+<br>
+  <label for="department">Department:</label>
+  <select id="department" name="department" [(ngModel)]="editedEntry.departmentName" >
+    <option value="Engineering">Engineering</option>
+    <option value="Marketing">Marketing</option>
+    <option value="Finance">Finance</option>
+  </select>
+<br>
+
+  <label for="mobile">Mobile Number:</label>
+  <input type="text" id="mobile" name="mobile" [(ngModel)]="editedEntry.mobile" required>
+<br>
+
+  
+<label for="dob">Date of Birth:</label>
+<input matInput [matDatepicker]="dobPicker" placeholder="Enter date of birth" [(ngModel)]="editedEntry.birth" name="dob">
+<mat-datepicker-toggle matSuffix [for]="dobPicker"></mat-datepicker-toggle>
+<mat-datepicker #dobPicker></mat-datepicker>
+  <br>
+
+  <label for="age">Age:</label>
+  <input type="number" id="age" name="age" [(ngModel)]="editedEntry.age" required>
+<br>
+
+
+</div>
+  <!-- Add other input fields for editing -->
+  <button type="button" (click)="onCancel()">Cancel</button>
+  <button type="submit">Save</button>
+</form>

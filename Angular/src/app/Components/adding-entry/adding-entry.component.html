@@ -1,0 +1,67 @@
+<div class="mydiv">
+<form (submit)="addEntry()"  class="form-container">
+  <label for="fullName">Full Name:</label>
+  <input type="text" id="fullName" name="fullName" [(ngModel)]="newEntry.fullName" placeholder="Enter full name">
+<br>
+
+  <label for="address">Address:</label>
+    <input type="text" id="address" name="address" [(ngModel)]="newEntry.address" placeholder="Enter full address">
+
+<br>
+
+  <label for="email">Email:   </label>
+  <input type="email" id="email" name="email" [(ngModel)]="newEntry.email" placeholder="Enter email">
+<br>
+
+
+  <!-- // and here for the job and the department we can get them from ours in
+     the database or we make it static like that  -->
+  <label for="jobTitle">Job Title:</label>
+  <select id="jobTitle" name="jobTitle" [(ngModel)]="newEntry.jobTitle">
+    <option value="Software Developer">Software Developer</option>
+    <option value="Data Analyst">Data Analyst</option>
+    <option value="Project Manager">Project Manager</option>
+    <option value=" Engineering">Engineer</option>
+
+
+  </select>
+<br>
+  <label for="department">Department:</label>
+  <select id="department" name="department" [(ngModel)]="newEntry.departmentName">
+    <option value="Engineering">Engineering</option>
+    <option value="Marketing">Marketing</option>
+    <option value="Finance">Finance</option>
+  </select>
+<br>
+
+  <label for="mobile">Mobile Number:</label>
+  <input type="text" id="mobile" name="mobile" [(ngModel)]="newEntry.mobile" placeholder="Enter mobile number">
+<br>
+
+  
+<label for="dob">Date of Birth:</label>
+<input matInput [matDatepicker]="dobPicker" placeholder="Enter date of birth" [(ngModel)]="newEntry.birth" name="dob">
+<mat-datepicker-toggle matSuffix [for]="dobPicker"></mat-datepicker-toggle>
+<mat-datepicker #dobPicker></mat-datepicker>
+
+
+
+
+  <br>
+
+
+  <label for="age">Age:</label>
+  <input type="number" id="age" name="age" [(ngModel)]="newEntry.age" placeholder="Enter age">
+<br>
+
+  <button type="submit">Add Entry</button>
+</form>
+</div>
+  <div *ngIf="successMessage" class="bg-success">
+    {{ successMessage }}
+  </div>
+
+
+  <div *ngIf="errorMessage" class="error-message">
+    {{ errorMessage }}
+  </div>

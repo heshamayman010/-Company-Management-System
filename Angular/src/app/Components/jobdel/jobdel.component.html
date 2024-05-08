@@ -1,0 +1,17 @@
+<!-- depart-delete.component.html -->
+<div class="container">
+  <h2>Delete Job </h2>
+  <div class="form-group">
+    <label for="jobId">JoB ID:</label>
+    <input type="number" class="form-control" id="jobId" [(ngModel)]="jobId" name="jobId" placeholder="Enter Job ID">
+  </div>
+  <div>
+    <button class="btn btn-danger" (click)="deleteJob()">Delete Job</button>
+    <button class="btn btn-secondary" (click)="clearMessages()">Clear Messages</button>
+  </div>
+  <div *ngIf="successMessage" class="alert alert-success mt-3">{{ successMessage }}</div>
+  <div *ngIf="errorMessage" class="alert alert-success mt-3">{{ errorMessage }}</div>
+</div>
+
+
+

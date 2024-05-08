@@ -1,0 +1,28 @@
+<div class="container">
+  <table class="table">
+    <thead>
+      <tr >
+        <th scope="col">Id</th>
+        <th scope="col">fullName</th>
+        <th scope="col">mobile</th>
+        <th scope="col">email</th>
+        <th scope="col">age </th>
+        <th scope="col">birth</th>
+        <th scope="col">job</th>
+        <th scope="col">deptName</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let p of entrylist" [class.bg-warning]="p.id === 0">
+        <td>{{p.id}}</td>
+        <td>{{p.fullName}}</td>
+        <td>{{p.mobile}}</td>
+        <td>{{p.email}}</td>
+        <td>{{p.age}}</td>
+        <td>{{p.birth}}</td>
+        <td>{{p.jobTitle}}</td>
+        <td>{{p.departmentName}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,14 @@
+<div>
+  <h2>Add Job</h2>
+  <form (ngSubmit)="addit()" #departmentForm="ngForm">
+    <div class="form-group">
+      <label for="title">Title:</label>
+      <input type="text" class="form-control" id="title" name="title" [(ngModel)]="jobtobeadded.title" required>
+    </div>
+    <div class="form-group">
+      <label for="description">Description:</label>
+      <input class="form-control" id="description" name="description" [(ngModel)]="jobtobeadded.description" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Add Job</button>
+  </form>
+</div>

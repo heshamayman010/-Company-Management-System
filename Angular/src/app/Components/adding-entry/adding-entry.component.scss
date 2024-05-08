@@ -1,0 +1,68 @@
+.form-container {
+  width: 100%;
+  max-width: 500px;
+  height: max-content;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #dacaca;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+border-color: #007bff;
+}
+
+/* Input field styles */
+// .form-input {
+//   width: 100%;
+//   margin-bottom: 15px;
+//   padding: 10px;
+//   border: 1px solid #ccc;
+//   border-radius: 5px;
+//   box-sizing: border-box;
+//   transition: border-color 0.3s ease;
+// }
+
+.form-input:focus {
+  border-color: #007bff; /* Highlight color when focused */
+}
+
+/* Label styles */
+.form-label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: block;
+}
+
+/* Button styles */
+.form-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+  background-color: #0056b3; /* Darker color on hover */
+}
+
+
+.mat-form-field {
+  margin-bottom: 20px;
+}
+
+.mat-datepicker-content {
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.mat-calendar-header {
+  background-color: #f0f0f0;
+}
+
+.mat-calendar-body-selected {
+  background-color: #007bff;
+  color: #fff;
+}

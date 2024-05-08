@@ -1,0 +1,249 @@
+D:\Api Projects\Tamweely\bin\Debug\net6.0\appsettings.Development.json
+D:\Api Projects\Tamweely\bin\Debug\net6.0\appsettings.json
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Tamweely.exe
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Tamweely.deps.json
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Tamweely.runtimeconfig.json
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Tamweely.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Tamweely.pdb
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Humanizer.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Api Projects\Tamweely\obj\Debug\net6.0\Tamweely.csproj.AssemblyReference.cache
+D:\Api Projects\Tamweely\obj\Debug\net6.0\Tamweely.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api Projects\Tamweely\obj\Debug\net6.0\Tamweely.AssemblyInfoInputs.cache
+D:\Api Projects\Tamweely\obj\Debug\net6.0\Tamweely.AssemblyInfo.cs
+D:\Api Projects\Tamweely\obj\Debug\net6.0\Tamweely.csproj.CoreCompileInputs.cache
+D:\Api Projects\Tamweely\obj\Debug\net6.0\Tamweely.MvcApplicationPartsAssemblyInfo.cs
+D:\Api Projects\Tamweely\obj\Debug\net6.0\Tamweely.MvcApplicationPartsAssemblyInfo.cache
+D:\Api Projects\Tamweely\obj\Debug\net6.0\staticwebassets\msbuild.Tamweely.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Api Projects\Tamweely\obj\Debug\net6.0\staticwebassets\msbuild.build.Tamweely.props
+D:\Api Projects\Tamweely\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tamweely.props
+D:\Api Projects\Tamweely\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tamweely.props
+D:\Api Projects\Tamweely\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Api Projects\Tamweely\obj\Debug\net6.0\staticwebassets.build.json
+D:\Api Projects\Tamweely\obj\Debug\net6.0\staticwebassets.development.json
+D:\Api Projects\Tamweely\obj\Debug\net6.0\scopedcss\bundle\Tamweely.styles.css
+D:\Api Projects\Tamweely\obj\Debug\net6.0\Tamweely.csproj.CopyComplete
+D:\Api Projects\Tamweely\obj\Debug\net6.0\Tamweely.dll
+D:\Api Projects\Tamweely\obj\Debug\net6.0\refint\Tamweely.dll
+D:\Api Projects\Tamweely\obj\Debug\net6.0\Tamweely.pdb
+D:\Api Projects\Tamweely\obj\Debug\net6.0\Tamweely.genruntimeconfig.cache
+D:\Api Projects\Tamweely\obj\Debug\net6.0\ref\Tamweely.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Castle.Core.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\EPPlus.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Api Projects\Tamweely\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\appsettings.Development.json
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\appsettings.json
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Tamweely.exe
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Tamweely.deps.json
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Tamweely.runtimeconfig.json
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Tamweely.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Tamweely.pdb
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Castle.Core.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\EPPlus.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Humanizer.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api Projects\task for tamweely\Tamweely\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\Tamweely.csproj.AssemblyReference.cache
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\Tamweely.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\Tamweely.AssemblyInfoInputs.cache
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\Tamweely.AssemblyInfo.cs
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\Tamweely.csproj.CoreCompileInputs.cache
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\Tamweely.MvcApplicationPartsAssemblyInfo.cs
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\Tamweely.MvcApplicationPartsAssemblyInfo.cache
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\staticwebassets\msbuild.Tamweely.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\staticwebassets\msbuild.build.Tamweely.props
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tamweely.props
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tamweely.props
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\staticwebassets.build.json
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\staticwebassets.development.json
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\scopedcss\bundle\Tamweely.styles.css
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\Tamweely.csproj.CopyComplete
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\Tamweely.dll
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\refint\Tamweely.dll
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\Tamweely.pdb
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\Tamweely.genruntimeconfig.cache
+D:\Api Projects\task for tamweely\Tamweely\obj\Debug\net6.0\ref\Tamweely.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\appsettings.Development.json
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\appsettings.json
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Tamweely.exe
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Tamweely.deps.json
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Tamweely.runtimeconfig.json
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Tamweely.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Tamweely.pdb
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Castle.Core.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\EPPlus.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Humanizer.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\Tamweely.csproj.AssemblyReference.cache
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\Tamweely.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\Tamweely.AssemblyInfoInputs.cache
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\Tamweely.AssemblyInfo.cs
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\Tamweely.csproj.CoreCompileInputs.cache
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\Tamweely.MvcApplicationPartsAssemblyInfo.cs
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\Tamweely.MvcApplicationPartsAssemblyInfo.cache
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\staticwebassets\msbuild.Tamweely.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\staticwebassets\msbuild.build.Tamweely.props
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tamweely.props
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tamweely.props
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\scopedcss\bundle\Tamweely.styles.css
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\Tamweely.csproj.CopyComplete
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\Tamweely.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\refint\Tamweely.dll
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\Tamweely.pdb
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\Tamweely.genruntimeconfig.cache
+D:\Tamweely Full project\Api\TamweelyApi-main\TamweelyApi-main\obj\Debug\net6.0\ref\Tamweely.dll

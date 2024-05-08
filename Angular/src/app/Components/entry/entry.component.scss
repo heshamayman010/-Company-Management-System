@@ -1,0 +1,30 @@
+.table td {
+  white-space: nowrap; /* Prevent text from wrapping */
+  overflow: hidden; /* Hide overflow text */
+  text-overflow: ellipsis; /* Show ellipsis (...) for overflow text */
+  max-width: 200px; /* Set maximum width for each cell */
+}
+
+.table th {
+  white-space: nowrap; /* Prevent text from wrapping */
+  max-width: 200px; /* Set maximum width for each header cell */
+}
+
+
+button{
+
+display: inline-block;
+    margin-left: 50%;
+    height: 50px;
+        width: 190px;
+        border-color:blue ;
+        background-color: gray;
+}
+
+
+input {
+
+    margin-left: 50%;
+    height: 50px;
+    
+}
